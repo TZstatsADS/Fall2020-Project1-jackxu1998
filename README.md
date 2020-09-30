@@ -9,7 +9,7 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2020
 
-+ Projec title: Lorem ipsum dolor sit amet
++ Projec title: The way American people's attitude toward immigration and China relate to each other and who they vote as their president in 2016
 + This project is conducted by Henan Xu
 
 + Project summary: The United States of America has an endured history of a diverse population. In 2018, there were almost 90 million immigrants and U.S.-born children of immigrants in the United States, accounting for 28% of the overall U.S. population. Immigration has always been a central topic in various aspects of the life of American people, including their culture, way of living and of course their political inclinations. In the meantime, China's rise in recent decades has also been rather controversial for the Americans. Therefore, this study, which makes use of the 2016 ANES Time Series Study data, is aimed to explore how the American's stance on immigration and China problems relate to each other and their voting in the 2016 Election. Specifically, this study tries to provide answers to the following questions:
